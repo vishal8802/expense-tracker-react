@@ -1,0 +1,32 @@
+.button{
+    border: none;
+    padding: 0 10px 0 10px;
+    cursor: pointer;
+}
+.transparent{
+    background-color: transparent;
+
+}
+.black{
+    color: black;
+}
+.green {
+    color: yellowgreen;
+}
+.white{
+    color: white;
+}
+
+.red{
+    color: red;
+
+}
+
+.xx{
+    font-size: 20px;
+}
+
+.xxx{
+    font-size: 30px;
+
+}
